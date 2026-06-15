@@ -6,7 +6,7 @@ The application recreates the onboarding flow and account screens while maintain
 
 ## Live Demo
 
-**Hosted URL:**
+**Hosted URL: https://pop-x-educase-nine.vercel.app**
 
 ---
 
