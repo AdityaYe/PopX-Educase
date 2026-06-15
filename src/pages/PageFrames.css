@@ -1,0 +1,47 @@
+.landing-frame {
+  justify-content: flex-end;
+  background-color: #f7f8f9;
+  padding: 24px;
+}
+
+.auth-frame {
+  justify-content: start;
+  background-color: #f7f8f9;
+  padding: 24px;
+}
+
+.register-frame {
+  overflow: hidden;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.register-submit {
+  width: calc(100% + 4px);
+  margin-left: -2px;
+}
+
+.profile-frame {
+  justify-content: start;
+  background-color: #FFFFFF;
+  overflow: hidden;
+}
+
+.profile-divider {
+  width: calc(100% + 40px);
+  margin-top: -8px;
+  margin-left: -20px;
+  height: 1px;
+  background-image: repeating-linear-gradient(
+    to right,
+    #CFCFCF 0,
+    #CFCFCF 4px,
+    transparent 4px,
+    transparent 9px
+  );
+}
+
+.profile-divider-bottom {
+  margin-top: auto;
+  margin-bottom: 16px;
+}
